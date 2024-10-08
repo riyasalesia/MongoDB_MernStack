@@ -7,8 +7,8 @@ The Online Bookstore Website is a platform designed to allow users to browse, se
 ## Project Architecture
 The website consists of three key components:
 - **Frontend**: HTML, CSS, JavaScript for the user interface (book browsing, cart, user management).
-- **Backend**: Django server for managing books, user data, and orders.
-- **Database**: PostgreSQL to store book listings, user info, and order history.
+- **Backend**: Node and Express JavaScript for managing books, user data, and orders.
+- **Database**: MongoDB to store book listings, user info, and order history.
 - **Integration**: RESTful APIs handle communication between frontend and backend.
 
 ## Features
@@ -19,7 +19,7 @@ The website consists of three key components:
 
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Django
+- **Backend**: HTML, CSS, JS
 - **Database**: MongoDB
 - **API**: RESTful APIs
 
