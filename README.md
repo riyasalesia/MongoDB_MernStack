@@ -1,7 +1,8 @@
-                                          📚 Online Bookstore Website
+  # 📚 Online Bookstore Website
 
-Introduction
+## Introduction
 The Online Bookstore Website is a platform designed to allow users to browse, search, and purchase books online. It includes features such as user registration, book search, cart management, and order placement.
+
 
 ## Project Architecture
 The website consists of three key components:
