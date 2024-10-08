@@ -19,7 +19,7 @@ The website consists of three key components:
 
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: HTML, CSS, JS
+- **Backend**: Node, Rxpress Js
 - **Database**: MongoDB
 - **API**: RESTful APIs
 
