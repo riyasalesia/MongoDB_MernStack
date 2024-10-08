@@ -1,1 +1,1 @@
-# MongoDB_MernStack
+Online bookstore using Mern.
